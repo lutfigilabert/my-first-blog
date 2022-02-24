@@ -1,3 +1,4 @@
 Django~=3.2.10
 django-dotenv
 python-dotenv
+django-ckeditor==6.2.0
